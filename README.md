@@ -31,10 +31,10 @@ Mannazu Project는 [간단한 프로젝트 설명]. 주요 기술 스택으로 [
 ### [미니 PC Kubernetes 클러스터](프로젝트 링크)
 미니 PC를 활용하여 Kubernetes 클러스터를 구축하고, 실제 애플리케이션을 배포하는 프로젝트입니다. Docker, Kubernetes, Jenkins, Argo CD 등의 기술을 활용하여 완전한 CI/CD 파이프라인을 구현하였습니다.
 
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DOLONG9&show_icons=true&theme=radical)
-
+//## 📊 GitHub Stats
+//
+//![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DOLONG9&show_icons=true&theme=radical)
+//
 ## 📫 How to reach me
 
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:bagmy2@naver.com)
