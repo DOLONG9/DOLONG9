@@ -5,8 +5,8 @@
 ## 🚀 About Me
 
 - 💼 DevOps를 희망하는 열정적인 엔지니어
-- 🌱 현재 Dev(Java, Python)와 Ops(Kubernetes, CI/CD)를 깊이 있게 공부 중
-- 🔭 [Mannazu Project]에 집중하며 실전 경험을 쌓고 있습니다
+- 🌱 현재 Dev(Java, Python)와 Ops(Kubernetes, CI/CD)를 공부 하고 있습니다.
+- 🔭 [Mannazu Project]에 집중하며 실전 경험을 쌓고 있습니다.
 
 ## 🛠 Skills
 ### [Develop]
@@ -24,6 +24,7 @@
 ## 🏢 Organizations
 
 - [Donggu-private-project-1](https://github.com/Donggu-private-project-1) - 미니 PC를 통한 Kubernetes 환경 구성 및 프로젝트 배포
+- [Mannazo] - 지역 주민과 여행자를 매칭하여 현지 가이드 및 친구 역할을 제공하는 서비스
 
 ## 🚀 Projects
 
