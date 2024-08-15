@@ -22,27 +22,6 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 ## 🏢 Organizations
-
-- [Donggu-private-project-1](https://github.com/Donggu-private-project-1) - 미니 PC를 통한 Kubernetes 환경 구성 및 프로젝트 배포
 - [Mannazo] - 지역 주민과 여행자를 매칭하여 현지 가이드 및 친구 역할을 제공하는 서비스
-
-## 🚀 Projects
-
-### [Mannazu Project](프로젝트 링크)
-Mannazu Project는 [간단한 프로젝트 설명]. 주요 기술 스택으로 [사용된 기술들]을 활용하였으며, [주요 기능 1, 주요 기능 2] 등을 구현하였습니다.
-
-### [미니 PC Kubernetes 클러스터](프로젝트 링크)
-미니 PC를 활용하여 Kubernetes 클러스터를 구축하고, 실제 애플리케이션을 배포하는 프로젝트입니다. Docker, Kubernetes, Jenkins, Argo CD 등의 기술을 활용하여 완전한 CI/CD 파이프라인을 구현하였습니다.
-
-<!--
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=DOLONG9&show_icons=true&theme=radical)
--->
-
-## 📫 How to reach me
-
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:bagmy2@naver.com)
-
----
 
 ⭐️ From [DOLONG9](https://github.com/DOLONG9)
