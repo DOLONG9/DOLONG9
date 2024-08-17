@@ -5,8 +5,8 @@
 ## 🚀 About Me
 
 - 💼 DevOps를 희망하는 열정적인 엔지니어
-- 🌱 현재 Dev(Java, Python)와 Ops(Kubernetes, CI/CD)를 공부 하고 있습니다.
-- 🔭 [Mannazu Project]에 집중하며 실전 경험을 쌓고 있습니다.
+- 🌱 현재 Dev(Java, Python)와 Ops(Kubernetes, CI/CD, AWS)를 공부 하고 있습니다.
+- 🔭 HomeCloud를 직접 설계하여 실전 경험을 쌓고 있습니다.
 
 ## 🛠 Skills
 ### [Develop]
