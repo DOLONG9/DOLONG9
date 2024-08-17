@@ -19,27 +19,18 @@
 ### [Develop]
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 
 
 ### [Containerization & Orchestration]
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Swarm](https://img.shields.io/badge/-Docker%20Swarm-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 
 ### [CI/CD]
 ![GitLab Runner](https://img.shields.io/badge/-GitLab%20Runner-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Argo CD](https://img.shields.io/badge/-Argo%20CD-FC6D26?style=flat-square&logo=argo&logoColor=white)
+![Argo](https://img.shields.io/badge/-Argo%20CD-FC6D26?style=flat-square&logo=argo&logoColor=white)
 ![Harbor](https://img.shields.io/badge/-Harbor-60B932?style=flat-square&logo=harbor&logoColor=white)
-![DockerHub](https://img.shields.io/badge/-DockerHub-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-
-### [Server]
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black)
 
 
 ### [Monitoring]
@@ -52,8 +43,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Amazon RDS](https://img.shields.io/badge/-Amazon%20RDS-527FFF?style=flat-square&logo=amazon-rds&logoColor=white)
 ![AWS EBS](https://img.shields.io/badge/-AWS%20EBS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![AWS EBS](https://img.shields.io/badge/-AWS%20EBS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
 
 
 ### [Project Management & Collaboration Tools]
@@ -65,7 +54,24 @@
 ![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)
 
 
-## 🏢 Organizations
-- [Mannazo] - 지역 주민과 여행자를 매칭하여 현지 가이드 및 친구 역할을 제공하는 서비스
+## 🎓 Certifications
+- Certified Kubernetes Administrator (CKA)
 
-⭐️ From [DOLONG9](https://github.com/DOLONG9)
+
+## 💻 Projects
+- **HomeCloud**: 개인 클라우드 시스템을 구축하여 운영하기 위한 기본적인 K8S 배포용 project [GitHub Repository](https://github.com/Donggu-private-project-1)
+- **여행객을 위한 현지인 친구 매칭 서비스**: 여행객이 방문예정인 여행지에 대한 여행 계획을 포스팅하면 현지인이 여행객을 선택해 함께 여행을 즐길 수 있는 매칭해주는 플랫폼 개발. [GitHub Repository](https://github.com/mannazo)
+
+
+## 🔧 Currently Learning
+- **Java, Springboot**: 백엔드 개발능력을 향상 시키기 위해 노력하고 있습니다.
+- **Linux**: Kubernets 를 더욱 효과적으로 컨트롤하기 위해 노력하고 있습니다.
+
+
+## 📝 Blog
+- (https://dorongcloud.tistory.com): Kubernetes, CI/CD, 클라우드, 네트워크 등 다양한 DevOps 관련 주제를 다룹니다.
+
+
+
+## 📫 Contact
+- **Email**: bagmy2@gmail.com
